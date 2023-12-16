@@ -1,7 +1,9 @@
 # SM4
 ### 已完成 
 在最简单的ECB模式下，无填充
+
 input 128bit 待解密/加密数据，output 128bit 加密/解密数据
+
 - sm4_F: X iteration
 - sm4_round key: 密钥扩展
 
